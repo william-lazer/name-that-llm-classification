@@ -31,3 +31,7 @@ llm_text_feature_statistics.csv
 .vscode/
 .DS_Store
 Thumbs.db
+
+# Generated experiment results
+statistics_weight_results.csv
+feature_comparison_results.csv
