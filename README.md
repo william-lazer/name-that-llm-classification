@@ -105,7 +105,6 @@ These findings apply to the configurations and validation splits tested in this 
 
 ```text
 Name_That_LLM/
-├── 00_testtfidf.py
 ├── 01_download_dataset.py
 ├── 02_data_exploration.py
 ├── 03_baseline_model.py
