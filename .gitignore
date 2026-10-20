@@ -1,0 +1,33 @@
+# Python cache and environments
+
+**pycache**/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+
+.env
+.env.*
+
+# Competition data - do not upload raw data
+
+data/
+*.zip
+
+# Generated predictions and analysis outputs
+
+submission.parquet
+confusion_matrix.csv
+llm_text_feature_statistics.csv
+
+# Jupyter checkpoints
+
+.ipynb_checkpoints/
+
+# Editor and operating system files
+
+.vscode/
+.DS_Store
+Thumbs.db
